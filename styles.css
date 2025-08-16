@@ -578,8 +578,7 @@ padding-left: 24px;
 .fifthsectionul{
     list-style: none;
     display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 40px;
     width: 346.66668701171875;
 height: 316;
@@ -602,10 +601,88 @@ padding-left: 24px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 7px;
+  gap: 29px;
 }
 .fifthsection img{
     align-items: flex-start;
+    height: 54px;
+    width: 54px;
+gap: 12.12px;
+opacity: 1;
+padding: 12.12px;
+border-radius: 60px;
+border-width: 0.87px;
+background: #8FC7461A;
+border: 0.87px solid #8FC7463D;
+box-shadow: 0px 0px 27.87px 0px #FFFFFF0D;
+box-shadow: 0px 0px 10.45px 0px #FFFFFF29 inset;
 }
 
+.fifthsectionsecondpart{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.sixthsection{
+    width: 1280px;
+height: 645px;
+gap: 44px;
+opacity: 1;
+padding: 80px;
 
+}
+.sixthsectionfirstpart{
+    width: 1120px;
+height: 48px;
+justify-content: space-between;
+opacity: 1;
+display: flex;
+justify-content: space-between;
+}
+.sixthsectionheading{
+    font-family: Bricolage Grotesque;
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: #000;
+}
+.sixthsectionview{
+    font-family: Manrope;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+display: flex;
+width: 125px;
+height: 44px;
+gap: 4px;
+opacity: 1;
+border-radius: 40px;
+border-width: 1px;
+padding-top: 12px;
+padding-right: 16px;
+padding-bottom: 12px;
+padding-left: 16px;
+border: 1px solid #000000;
+align-items: center;
+
+}
+.sixthsectionarrow{
+    width: 20;
+height: 20;
+opacity: 1;
+}
+
+.sixthsectionul{
+    display: flex;
+    
+}
+
+.sixthsectioncard1{
+    display: flex;
+    flex-direction: column;
+}
